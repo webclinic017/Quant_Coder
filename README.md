@@ -1,5 +1,7 @@
 # QuantCoder 2.0.0
 
+> **This project is no longer actively developed.** QuantCoder has been superseded by [**QuantMar**](https://slmar.co/solutions.html), which unifies research-to-algorithm generation, factor analysis, backtesting, and live deployment into a single framework. See the [Solutions page](https://slmar.co/solutions.html) for details.
+
 [![Version](https://img.shields.io/badge/version-2.0.0-green)](https://github.com/SL-Mar/quantcoder-cli)
 [![Python](https://img.shields.io/badge/python-3.10+-blue)](https://python.org)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue)](LICENSE)
